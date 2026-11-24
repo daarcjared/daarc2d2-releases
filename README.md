@@ -4,7 +4,7 @@ daarc2d2 is an independent controller for compatible Droid Depot droids. It was 
 
 ## Downloads
 
-Android installers will appear under [Releases](https://github.com/daarcjared/daarc2d2-releases/releases) when available.
+[Download the latest Android APK](https://github.com/daarcjared/daarc2d2-releases/releases/latest). The release also includes checksums and license notices.
 
 ## Support
 
